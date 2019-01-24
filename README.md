@@ -1,2 +1,2 @@
 # Travelcity
-A Travel landing page
+A Travel landing page made with materialize and Jquery
