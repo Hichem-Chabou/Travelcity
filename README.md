@@ -11,3 +11,6 @@ Here's a live demo: https://travelcity.surge.sh/
 
 ## Screenshot :camera:  
 ![Home](https://github.com/Hichem-Chabou/Travelcity/blob/master/img/Travelcity-full.jpg)  
+
+## License :scroll:  
+[MIT](https://github.com/Hichem-Chabou/Travelcity/blob/master/LICENSE)
